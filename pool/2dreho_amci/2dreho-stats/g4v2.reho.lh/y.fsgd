@@ -1,0 +1,91 @@
+GroupDescriptorFile 1
+Title  aMCI-vs-NC
+
+MeasurementName external
+Tessellation surface
+PlotFile /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/4dmaps/lh.reho.sm6.nii.gz
+DesignMatFile X.mat dods
+DeMeanFlag 0
+ReScaleFlag 0
+ResidualFWHM 12.280511
+LogY 0
+Class NC_male
+Class NC_female
+Class aMCI_male
+Class aMCI_female
+Variables Age Edu 
+Input NC_CAOJINLIN NC_male 2.8 -3.4 
+Input NC_FANGZHONGWEI NC_female -4.2 -2.4 
+Input NC_FANYUJIE NC_female 4.8 -3.4 
+Input NC_GAOZHISHENG NC_male 7.8 -2.4 
+Input NC_GUOLING NC_female -5.2 -0.4 
+Input NC_GUWEIBIN NC_male 3.8 4.6 
+Input NC_HANFURONG NC_female 3.8 -4.4 
+Input NC_HUYUCUI NC_female 0.8 -3.4 
+Input NC_JIAYIPING NC_female 4.8 -0.4 
+Input NC_LIAILING NC_female 3.8 -0.4 
+Input NC_LIUBAOLIAN NC_female -0.2 -4.4 
+Input NC_LIUCHENGMIAO NC_male -7.2 0.6 
+Input NC_LIUXUEWEN NC_female 1.8 -6.4 
+Input NC_LIUYIFANG NC_female -6.2 3.6 
+Input NC_LIUYISHUN NC_male 6.8 9.6 
+Input NC_LIWANFA NC_male -1.2 3.6 
+Input NC_LIXILING NC_male 3.8 1.6 
+Input NC_LIYONGXIANG NC_male 5.8 2.6 
+Input NC_LIYUNZHU-1 NC_female -4.2 -0.4 
+Input NC_LIZHIJIANG NC_male 1.8 2.6 
+Input NC_LUHONG NC_male -4.2 -2.4 
+Input NC_NIZHENGYING NC_female 8.8 3.6 
+Input NC_RONGXIUFANG NC_female -4.2 -6.4 
+Input NC_SUNJUYING NC_female 4.8 -0.4 
+Input NC_SUNMANYING NC_female 1.8 2.6 
+Input NC_TANGMINGXIU NC_female -3.2 -0.4 
+Input NC_TANGRUIYUAN NC_female -5.2 -3.4 
+Input NC_WANGDONGHUI NC_male 5.8 -0.4 
+Input NC_WANGWENHUI NC_male 5.8 -0.4 
+Input NC_WANGZHONGYU NC_female 3.8 1.6 
+Input NC_WEIDEFENG NC_female -7.2 -3.4 
+Input NC_XIESHUPING NC_female 1.8 4.6 
+Input NC_YUGUANGHAN NC_male -2.2 -0.4 
+Input NC_YUWEIQIANG NC_male 1.8 -0.4 
+Input NC_ZENGHEPING NC_male -5.2 -3.4 
+Input NC_ZHANGJINGFANG NC_female 4.8 13.6 
+Input NC_ZHANGMIN NC_female 5.8 6.6 
+Input NC_ZHENGGUANMEI NC_female 7.8 2.6 
+Input NC_ZHOUYANYUN NC_female -6.2 -3.4 
+Input NC_ZUZHENKOU NC_male 6.8 4.6 
+Input aMCI_CHENGUANGLI aMCI_male 1.1 -0.2 
+Input aMCI_CHENGYINGKE aMCI_male -2.9 -2.2 
+Input aMCI_CHENJIN aMCI_female -4.9 2.8 
+Input aMCI_DUWEN aMCI_male -4.9 -1.2 
+Input aMCI_JIANGDAZHONG aMCI_male -9.9 3.8 
+Input aMCI_JIARUOMING aMCI_female 12.1 -4.2 
+Input aMCI_LIFUYOU aMCI_male -1.9 2.8 
+Input aMCI_LIJINSHENG aMCI_male -9.9 -3.2 
+Input aMCI_LIRUIFEN aMCI_female -4.9 -3.2 
+Input aMCI_LISHUMIN aMCI_female -3.9 -5.2 
+Input aMCI_LIUDIANHONG-1 aMCI_male 5.1 -1.2 
+Input aMCI_LIUGUIFEN aMCI_female -4.9 -2.2 
+Input aMCI_LIUJINXIANG aMCI_female 6.1 3.8 
+Input aMCI_LIUSHUMIN aMCI_female -3.9 -5.2 
+Input aMCI_LIWENYING aMCI_female 10.1 1.8 
+Input aMCI_LVWENJUN aMCI_female -1.9 -2.2 
+Input aMCI_MACHENXIAN aMCI_male 2.1 5.8 
+Input aMCI_NIUWENRONG aMCI_female 4.1 0.8 
+Input aMCI_TAIYING aMCI_female 3.1 0.8 
+Input aMCI_TONGYUJIE aMCI_female -2.9 -2.2 
+Input aMCI_WANGDEQING aMCI_male -9.9 2.8 
+Input aMCI_WANGPU aMCI_male -4.9 -0.2 
+Input aMCI_XIAOYAOMING aMCI_male 4.1 0.8 
+Input aMCI_XULIANZHI aMCI_female 11.1 0.8 
+Input aMCI_YANGHONG aMCI_female -6.9 -2.2 
+Input aMCI_YANGLANYING aMCI_female 3.1 -3.2 
+Input aMCI_YANGSHIWEN aMCI_male 4.1 8.8 
+Input aMCI_YANXINIAN-1 aMCI_male 14.1 4.8 
+Input aMCI_ZHANGAIRONG aMCI_female 3.1 -5.2 
+Input aMCI_ZHAOXIUQIN aMCI_female -7.9 -0.2 
+Input aMCI_ZHONGBAIHONG aMCI_female 9.1 0.8 
+Input aMCI_ZHOUXIAOPING aMCI_male -5.9 0.8 
+Creator          mri_glmfit
+SUBJECTS_DIR     /Users/YiwenZ/Documents/Data/MCI
+SynthSeed        1470815157

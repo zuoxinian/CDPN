@@ -1,0 +1,34 @@
+# Cluster Growing Summary (mri_surfcluster)
+# $Id: mri_surfcluster.c,v 1.51.2.3 2012/05/31 22:10:05 greve Exp $
+# $Id: mrisurf.c,v 1.693.2.7 2013/05/12 22:28:01 nicks Exp $
+# CreationTime 2016/07/23-08:10:10-GMT
+# cmdline mri_surfcluster --in sig.cw.neg.mgh --thmin 2.0792 --no-adjust --sign abs --subject fsaverage5 --hemi rh --annot aparc.a2009s --mask ../mask.mgh --cwsig sigclusters.cw.neg.mgh --sum sigclusters.cw.neg.txt 
+# cwd /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/RSFC_stats/stats/rPCC/rh.RSFC.rPCC/amci-nc
+# sysname  Darwin
+# hostname Mac.local
+# machine  x86_64
+# FixVertexAreaFlag 1
+# FixSurfClusterArea 1
+# 
+# Input      sig.cw.neg.mgh
+# Frame Number      0
+# srcsubj fsaverage5
+# hemi rh
+# surface white
+# annot aparc.a2009s
+# SUBJECTS_DIR /Applications/freesurfer/subjects
+# SearchSpace_mm2 66619
+# SearchSpace_vtx 9025
+# Bonferroni 0
+# Minimum Threshold 2.0792
+# Maximum Threshold infinity
+# Threshold Sign    abs
+# AdjustThreshWhenOneTail 0
+# Area Threshold    0 mm^2
+# Overall max 0 at vertex 0
+# Overall min -1.82462 at vertex 161
+# NClusters          0
+# Total Cortical Surface Area 66619 (mm^2)
+# FixMNI = 1
+# 
+# ClusterNo  Max   VtxMax   Size(mm^2)  TalX   TalY   TalZ    NVtxs   Annot

@@ -1,0 +1,25 @@
+
+$Id: mri_glmfit.c,v 1.196.2.8 2012/11/01 18:51:41 greve Exp $
+cwd /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/RSFC_stats/stats
+cmdline mri_glmfit --glmdir rPCC/rh.RSFC.rPCC --y /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/RSFC_stats/smoothed_Data/rPCC/rh.zRSFC.rPCC.sm6.nii.gz --fsgd g4v2.fsgd --C amci-nc.mtx --surf fsaverage5 rh --mask /Users/YiwenZ/Documents/Data/MCI/group/masks/rh.reho.MCI.nii.gz --cortex 
+sysname  Darwin
+hostname Mac.local
+machine  x86_64
+user     YiwenZ
+FixVertexAreaFlag = 1
+UseMaskWithSmoothing     1
+OneSampleGroupMean 0
+y    /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/RSFC_stats/smoothed_Data/rPCC/rh.zRSFC.rPCC.sm6.nii.gz
+logyflag 0
+usedti  0
+FSGD g4v2.fsgd
+labelmask  /Applications/freesurfer/subjects/fsaverage5/label/rh.cortex.label
+mask /Users/YiwenZ/Documents/Data/MCI/group/masks/rh.reho.MCI.nii.gz
+maskinv 0
+glmdir rPCC/rh.RSFC.rPCC
+IllCondOK 0
+ReScaleX 1
+DoFFx 0
+ResidualFWHM 17.577390
+SearchSpace 73908.254512
+anattype surface

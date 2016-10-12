@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.2.2
+Qt Compiled Version: 4.8.3
+Qt Runtime Version: 4.8.3
+Commit: 3fd5e0762d909574c28dc8d317c9fa8c41299a62
+Commit Date: 2016-07-18 18:00:41 -0500
+Compiled with OpenMP: YES
+Compiler: clang2++ (/usr/local/clang-openmp-opt/llvm/build/Release/bin)
+Compiler Version: 3.4.0
+Compiled Debug: NO
+Operating System: Apple OSX
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/Brain/CCS/extool/hcpworkbench/bin_macosx64/../macosx64_apps/wb_command.app/Contents/MacOS/wb_command -metric-convert -from-nifti /Users/xinian.zuo/Downloads/2dReHo-MCI/2dReHo-stats/fs1mm/rh.amci-nc.sig.cw.pos.nii.gz /Brain/CCS/extool/hcpworkbench/resources/deform_maps/fs1mm/rh.white.surf.gii /Users/xinian.zuo/Downloads/2dReHo-MCI/2dReHo-stats/fs1mm/rh.amci-nc.sig.cw.pos.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/Users/xinian.zuo/Downloads/2dReHo-MCI/2dReHo-stats]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NORMAL"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="163842"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

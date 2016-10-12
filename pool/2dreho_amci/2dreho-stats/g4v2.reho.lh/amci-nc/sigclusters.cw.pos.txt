@@ -1,0 +1,36 @@
+# Cluster Growing Summary (mri_surfcluster)
+# $Id: mri_surfcluster.c,v 1.51.2.3 2012/05/31 22:10:05 greve Exp $
+# $Id: mrisurf.c,v 1.693.2.7 2013/05/12 22:28:01 nicks Exp $
+# CreationTime 2016/08/07-07:37:40-GMT
+# cmdline mri_surfcluster --in sig.cw.pos.mgh --thmin 1.6021 --no-adjust --sign abs --subject fsaverage5 --hemi lh --annot aparc.a2009s --mask ../mask.mgh --cwsig sigclusters.cw.pos.mgh --minarea area --sum sigclusters.cw.pos.txt 
+# cwd /Users/YiwenZ/Documents/Data/MCI/group/groupanalysis/stats/g4v2.reho.lh/amci-nc
+# sysname  Darwin
+# hostname Mac.local
+# machine  x86_64
+# FixVertexAreaFlag 1
+# FixSurfClusterArea 1
+# 
+# Input      sig.cw.pos.mgh
+# Frame Number      0
+# srcsubj fsaverage5
+# hemi lh
+# surface white
+# annot aparc.a2009s
+# SUBJECTS_DIR /Users/YiwenZ/Documents/Data/MCI
+# SearchSpace_mm2 66661.6
+# SearchSpace_vtx 9221
+# Bonferroni 0
+# Minimum Threshold 1.6021
+# Maximum Threshold infinity
+# Threshold Sign    abs
+# AdjustThreshWhenOneTail 0
+# Area Threshold    0 mm^2
+# Overall max 3.09619 at vertex 165
+# Overall min -0 at vertex 0
+# NClusters          2
+# Total Cortical Surface Area 66661.6 (mm^2)
+# FixMNI = 1
+# 
+# ClusterNo  Max   VtxMax   Size(mm^2)  TalX   TalY   TalZ    NVtxs   Annot
+   1        3.096     165    644.52    -34.6  -21.5   47.8    95  G_precentral
+   2        2.536     220    447.84    -40.5  -26.4   40.0    67  S_postcentral
